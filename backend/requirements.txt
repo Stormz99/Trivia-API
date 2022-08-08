@@ -1,0 +1,14 @@
+aniso8601
+Click
+Flask
+Flask-Cors
+Flask-RESTful
+Flask-SQLAlchemy
+itsdangerous
+Jinja2
+MarkupSafe
+Psycopg2-binary==2.8.2
+pytz
+six
+SQLAlchemy
+Werkzeug
