@@ -13,3 +13,13 @@ ehthumbs.db
 Thumbs.db
 env/
 frontend/node_modules/
+
+# For Python files
+*.py linguist-language=Python
+
+# For JavaScript files
+*.js linguist-language=JavaScript
+
+# For TypeScript files
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
